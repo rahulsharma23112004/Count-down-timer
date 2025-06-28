@@ -19,4 +19,4 @@ This is a simple yet elegant Countdown Timer built using **HTML**, **CSS**, and 
 - Time conversion logic (seconds → minutes → hours → days)<br>
 - Handling UI updates based on logic<br>
 
-<b>Link for the Project: </b>  https://rahulsharma23112004.github.io/Count-down-timer/<br>
+<b>Link for the Project: </b>  https://rahulsharma23112004.github.io/Count-down-timer/<br> 
