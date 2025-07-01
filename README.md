@@ -9,7 +9,7 @@ This is a simple yet elegant Countdown Timer built using **HTML**, **CSS**, and 
 - Easy to customize target date
 
 <h2>🛠 Technologies Used</h2>
-<b>HTML</b> – For structure
+<b>HTML</b> – For structure   
 <b>CSS</b> – For basic styling
 <b>JavaScript</b> – For logic and dynamic behavior
 
