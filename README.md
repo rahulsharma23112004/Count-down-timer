@@ -5,7 +5,7 @@ This is a simple yet elegant Countdown Timer built using **HTML**, **CSS**, and 
 <h2> 📌 Features</h2>
 - Real-time countdown display
 - Clean and minimal UI
-- Responsive layout (can be improved further)
+- Responsive layout (can be improved further) 
 - Easy to customize target date
 
 <h2>🛠 Technologies Used</h2>
